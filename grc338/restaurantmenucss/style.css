@@ -1,7 +1,7 @@
-/* css document*/
+css document*/
 body{
 	background-color: #faf9f5;
-	margin: 1em 2em 1.5em 2em;
+	margin: 1em 2em 1.5em 3em;
 }
 h1 {
 	color: #4D6F73;
@@ -12,6 +12,7 @@ h1 {
 h2{
 	color: #E1A137;
 	font-family: Gill Sans, sans-serif;
+	text-align: center;
 }
 h3{
 	color: #D9A59A;
