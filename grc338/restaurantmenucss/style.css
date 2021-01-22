@@ -1,10 +1,7 @@
 /* css document*/
 body{
-	background-color: #f7f0e4;
-	padding-top: 50px;
-	padding-right: 30px;
-	padding-bottom: 50px;
-	padding-left: 80px;
+	background-color: #EAEAEA;
+	margin: 1em 2em 1.5em 0.5em;
 }
 h1 {
 	color: #4D6F73;
