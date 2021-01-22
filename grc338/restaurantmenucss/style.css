@@ -1,0 +1,26 @@
+/* css document*/
+body{
+	background-color: #EAEAEA;
+}
+h1 {
+	color: #4D6F73;
+	font-size: 3em;
+	font-family: Palatino, serif;
+	text-align: center;
+}
+h2{
+	color: #E1A137;
+	font-family: Gill Sans, sans-serif;
+}
+h3{
+	color: #D9A59A;
+	font-family: Gill Sans, sans-serif;
+	text-transform: uppercase;
+}
+h4{
+	color: #D27D46;
+	font-family: Gill Sans, sans-serif;
+}
+p{
+	font-family: Gill Sans, sans-serif;
+}
