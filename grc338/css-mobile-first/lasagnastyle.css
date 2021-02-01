@@ -28,9 +28,10 @@ h2{
 	line-height: 1.8em;
 }
 figcaption{
-	color:#D27D46;
-	font-family:sofia-pro, sans-serif;
+	color:#B2AC88;
+	text-align: left;
 	line-heigh: .8em;
+	font-style: italic;
 }
 h3{
 	color: #D27D46;
