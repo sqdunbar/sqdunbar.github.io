@@ -14,14 +14,14 @@ body{
 }
 h1 {
 	color: #4D6F73;
-	font-size: 2em;
+	font-size: 1.5em;
 	font-family: sofia-pro, sans-serif;
 	text-align: center;
 	line-height: 1.8em;
 }
 h2{
 	color: #D27D46;
-	font-size: 1.5em;
+	font-size: .5em;
 	font-family: sofia-pro, sans-serif;
 	text-align: center;
 	text-transform: uppercase;
