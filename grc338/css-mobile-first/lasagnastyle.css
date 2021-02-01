@@ -9,23 +9,34 @@ img {
 /*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
 body{
 	background-color: #faf9f5;
+	padding:1.5em;
+	margin: 1em 2em 1em 2em;
 }
 h1 {
 	color: #4D6F73;
-	font-size: 3em;
+	font-size: 4em;
 	font-family: sofia-pro, sans-serif;
 	text-align: center;
+	line-height: 1.8em;
 }
 h2{
-	color: #4D6F73;
+	color: #D27D46;
 	font-size: 2em;
 	font-family: sofia-pro, sans-serif;
 	text-align: center;
 	text-transform: uppercase;
+	line-height: 1.8em;
+}
+figcaption{
+	color:#D27D46;
+	font-family:sofia-pro, sans-serif;
+	line-heigh: .8em;
 }
 h3{
-	color: #D9A59A;
-	font-family:
+	color: #D27D46;
+	text-align: left;
+	font-family:sofia-pro, sans-serif;
+	line-height:2.1em
 	text-transform: uppercase;
 }
 h6{
@@ -33,9 +44,13 @@ h6{
 	font-size: 0.5em;
 	font-family: sofia-pro, sans-serif;
 	text-align: center;
+	line-height:1.6em;
 }
-p{
-	font-family: sofia-pro, sans-serif;
-	font-weight: 400;
-	font-style: normal;
+ul{
+	font-size: .9em;
+	line-height:1.6em;
+}
+ol{
+	font-size: .9em;
+	line-height:1.6em;
 }
