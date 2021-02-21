@@ -1,5 +1,8 @@
 /*CSS DOCUMENT*/
 <link rel="stylesheet" href="https://use.typekit.net/mad6jbo.css">
+img {
+width: 100%;
+}
 body{
 background-color: #f7f3e4;
 padding:1.5em;
