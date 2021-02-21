@@ -3,6 +3,10 @@
 img {
 width: 100%;
 }
+.logo-row {
+    width: 250px;
+    margin: 0 auto;
+}
 body{
 background-color: #f7f3e4;
 padding:1.5em;
