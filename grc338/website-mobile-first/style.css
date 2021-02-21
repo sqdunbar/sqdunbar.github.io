@@ -1,8 +1,7 @@
 /*CSS DOCUMENT*/
 <link rel="stylesheet" href="https://use.typekit.net/mad6jbo.css">
 img {
-width: 100%; 
-align-content: center;
+width: 100%;
 }
 body{
 background-color: #f7f3e4;
@@ -39,7 +38,7 @@ line-height:2.1em;
 }
 h5{
 color: #014701;
-text-align: left;
+text-align: center;
 font-family:sofia-pro, sans-serif;
 line-height:2.1em;
 }
