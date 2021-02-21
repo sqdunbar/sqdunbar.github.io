@@ -1,0 +1,75 @@
+/*CSS DOCUMENT*/
+<link rel="stylesheet" href="https://use.typekit.net/mad6jbo.css">
+img {
+width: 100%; 
+align-content: center;
+}
+body{
+background-color: #f7f3e4;
+padding:1.5em;
+margin: 1em 2em 1em 2em;
+}
+h1 {
+color: #014701;
+font-size: 5em;
+font-family: hatch, serif;
+text-align: center;
+line-height: 1.8em;
+}
+h2{
+color: #D27D46;
+text-align: left;
+font-size: 2em;
+font-family: sofia-pro, sans-serif;
+line-height: 1.8em;
+}
+h3{
+color: #D27D46;
+text-align: left;
+font-size: 2em;
+font-family: sofia-pro, sans-serif;
+line-height: 1.8em;
+text-align: center;
+text-transform: uppercase;
+}
+h4{
+color: #001c10;
+text-align: left;
+font-family:sofia-pro, sans-serif;
+line-height:2.1em;
+}
+h5{
+color: #014701;
+text-align: left;
+font-family:sofia-pro, sans-serif;
+line-height:2.1em;
+}
+h6{
+font-family: sofia-pro, sans-serif;
+font-size: 1em;
+line-height:1.6em;	
+text-align: center;
+}
+ul{
+font-family: sofia-pro, sans-serif;
+font-size: 1em;
+line-height:1.6em;
+}
+ol{
+font-family: sofia-pro, sans-serif;
+font-size: 1em;
+line-height:1.6em;
+}
+p{
+font-family: sofia-pro, sans-serif;
+font-size: 1em;
+line-height:1.6em;	
+}
+footer{
+color: #9e633c;
+font-size: 1em;
+font-family: sofia-pro, sans-serif;
+text-align: center;
+line-height:1.6em;
+text-transform: italic;
+}
