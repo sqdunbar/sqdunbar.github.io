@@ -1,0 +1,92 @@
+/*CSS DOCUMENT*/
+div.container{
+max-height: 30em;
+margin: 0 auto;
+}
+img {
+width: 100%; 
+}
+body{
+background-color: #f7f3e4;
+}
+h1 {
+height: 30em;
+}
+h2{
+color: #D27D46;
+text-align: center;
+font-size: 2em;
+font-family: sofia-pro, sans-serif;
+line-height: 1.8em;
+}
+h3{
+color: #D27D46;
+text-align: left;
+font-size: 2em;
+font-family: sofia-pro, sans-serif;
+line-height: 1.8em;
+text-align: center;
+text-transform: uppercase;
+}
+h4{
+color: #001c10;
+text-align: left;
+font-family:sofia-pro, sans-serif;
+line-height:2.1em;
+}
+h5{
+color: #014701;
+text-align: left;
+font-family:sofia-pro, sans-serif;
+line-height:2.1em;
+}
+h6{
+font-family: sofia-pro, sans-serif;
+font-size: 1em;
+line-height:1.6em;	
+text-align: center;
+}
+ul{
+font-family: sofia-pro, sans-serif;
+font-size: 1em;
+line-height:1.6em;
+}
+ol{
+font-family: sofia-pro, sans-serif;
+font-size: 1em;
+line-height:1.6em;
+}
+p{
+font-family: sofia-pro, sans-serif;
+font-size: 1em;
+line-height:1.6em;	
+}
+nav ul{
+padding 0;
+}
+nav ul li{
+list-style-type: none;
+margin-right: 2em;
+text-transform: uppercase;
+font-family: sofia-pro, sans-serif;
+font-size: 2em;
+margin-bottom: 0;
+display: inline;
+}
+nav ul li a {
+color: #014701;
+text-decoration: none;
+}
+nav ul li a:hover{
+color: #D27D46;
+}
+article{
+max-width: 40em;
+padding: 0.5em;
+margin: auto;
+}
+@media screen and (min-width:60em){
+nav ul li{
+display: inline;
+}
+}
