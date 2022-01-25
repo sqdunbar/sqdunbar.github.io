@@ -1,0 +1,30 @@
+/*css document*/
+<link rel="stylesheet" href="https://use.typekit.net/glx7mgh.css">
+h1 {
+font-size: 16pt;
+font-family: bebas-neue-pro, sans-serif;
+font-weight: 600;
+font-style: normal;
+text-transform: uppercase;
+}
+h2 {
+font-size: 12pt
+font family: arial, sans-serif;
+text-transform: uppercase;
+}
+h3 {
+font-size: 10pt;
+font-family: bebas-neue-pro, sans-serif;
+font-weight: 600;
+font-style: normal;
+text-transform: uppercase;
+}
+h4 {
+font-size: 8pt
+font family: arial, sans-serif;
+text-transform: uppercase;
+}
+body {
+font-size: 9pt
+font family: arial, sans-serif;
+}
